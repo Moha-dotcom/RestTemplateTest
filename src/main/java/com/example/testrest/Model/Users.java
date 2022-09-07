@@ -1,4 +1,4 @@
-package com.example.testrest;
+package com.example.testrest.Model;
 
 
 
