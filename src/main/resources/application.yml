@@ -1,0 +1,15 @@
+
+
+server:
+  port: 8089
+users:
+  url: http://localhost:8080/users
+
+
+
+
+spring:
+  devtools:
+    livereload: 35730
+    restart:
+      enable: true
